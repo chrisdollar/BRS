@@ -1,7 +1,7 @@
 package com.sotra.reservation.dto.mapper;
 
 import com.sotra.reservation.dto.model.bus.TicketDto;
-import com.sotra.reservation.dto.model.bus.Ticket;
+import com.sotra.reservation.model.bus.Ticket;
 
 
 public class TicketMapper {
